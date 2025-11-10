@@ -1,58 +1,57 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/username-anda/repo-anda/main/jane_doe_profile.png" width="250" alt="Jane Doe ZZZ Profile Image"/>
-
-    # ⚙️ JANE DOE'S FIELD REPORT
-    ### // OPERATING SYSTEM: LINUX MINT XFCE (Optimized)
-    *Focusing on low-latency development and high-speed data processing.*
+    <img src="https://raw.githubusercontent.com/username-anda/repo-anda/main/jane_doe_profile.png" width="180" alt="Jane Doe ZZZ Profile Image"/>
+    
+    # JANE DOE // CODE NAME: [USERNAME ANDA]
+    ### Data Engineer & System Optimizer (Linux Mint Xfce)
+    
+    > **[STATUS]** *"Keep your system clean, your code efficient, and your latency low."*
 </div>
 
 ---
 
-### █ // CURRENT TARGETS (GameDev & Code)
+### █ // FOCUS: LOW-LATENCY DEVELOPMENT & GAMEDEV
 
-| **TARGET** | **PRIORITY** | **TOOLS & PROTOCOL** |
-| :--- | :--- | :--- |
-| **Gamedev Project** | High | Godot Engine (Standard), Blender, Krita |
-| **System Hardening** | Medium | Picom, Firejail, FDE (Phase 3) |
-| **C++ / GDScript** | High | Neovim (nvim), Git, Kitty Terminal |
-| **Optimized Gaming** | Low-Latency | Lutris, Proton-GE, Mangohud |
-
----
-
-### █ // FIELD KIT (Tech Stack & Toolkit)
-
-Saya memilih efisiensi. Semua *tool* saya dioptimalkan untuk performa *high-speed* dan *memory footprint* minimal.
-
-#### **OS & EFFICIENCY**
-* **Operating System:** Linux Mint Xfce (Minimal & Hardened)
-* **Terminal:** Kitty (GPU Accelerated)
-* **App Launcher:** Rofi (Super L / Super + Q)
-* **Clipboard Manager:** Greenclip
-* **Visual Composer:** Picom (Anti-Screen Tearing)
-
-#### **DEVELOPMENT & ENGINE**
-* **Code Editor:** Neovim (nvim) - *Pure Terminal Efficiency*
-* **Primary Engine:** Godot Engine (Standard/GDScript)
-* **Version Control:** Git
-* **Compiler:** Build-Essential (GCC/G++)
-
----
-
-### █ // ENCRYPTION & CONTACT
-
-| **DATA CHANNEL** | **STATUS** |
-| :--- | :--- |
-| **Email:** | `[email@anda.com]` |
-| **Discord:** | `[handle discord anda]` |
-| **Current Task:** | Studying C++ and optimizing system I/O. |
+Saya fokus pada pembangunan *software* yang cepat dan efisien (*resource-friendly*) menggunakan alat berbasis Terminal dan *open-source*.
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Linux%20Mint-8F8?style=for-the-badge&logo=linux-mint&color=4A606A" alt="Linux Mint"/>
-    <img src="https://img.shields.io/badge/Godot-478FB?style=for-the-badge&logo=godot-engine&color=66FFCC" alt="Godot"/>
-    <img src="https://imgshields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&color=ff00ff" alt="Neovim"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=607C82" alt="C++"/>
+    
+| GitHub Stats | Top Languages |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_ANDA]&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ANDA]&layout=compact&theme=dark" alt="Top Languages"/> |
+
 </div>
+
+### █ // FIELD KIT: OPTIMIZED TOOLING
+
+Saya menggunakan *tool* yang dipilih untuk performa mentah dan efisiensi di Linux.
+
+| Kategori | Tools Pilihan |
+| :--- | :--- |
+| **Code Editor** | Neovim (nvim) |
+| **Terminal** | Kitty (GPU Accelerated) |
+| **Game Engine** | Godot Engine (Standard) |
+| **OS Base** | Linux Mint Xfce (Tuned for Low Latency) |
+| **Visuals** | Rofi, Picom |
+| **Modding/Modelling** | Blender, Krita |
 
 ---
 
-**[STATUS]** *Keep your system clean, your code efficient, and your latency low.*
+### 4. Aktivitas Terbaru (Opsional)
+
+Jika Anda ingin menampilkan aktivitas commit atau blog terbaru (seperti Sandhika Galih), Anda bisa menggunakan *widget* ini (Anda harus *install* *GitHub Actions* di repositori Anda):
+
+```markdown```
+### █ // RECENT ACTIVITY
+
+<img src="[https://raw.githubusercontent.com/username-anda/github-readme-activity-graph/master/graph/master/activity-graph.svg](https://raw.githubusercontent.com/username-anda/github-readme-activity-graph/master/graph/master/activity-graph.svg)" alt="Activity Graph" />
+
+
+
+<div align="center">
+    
+## █ // CONTACT & ENCRYPTION
+    
+<a href="mailto:email@anda.com"><img src="[https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail.ru&logoColor=white](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail.ru&logoColor=white)"/></a>
+<a href="[https://discordapp.com/users/username](https://discordapp.com/users/username)"><img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)"/></a>
+
+</div>
